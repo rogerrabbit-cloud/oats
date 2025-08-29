@@ -1,0 +1,11 @@
+{
+  "name": "oats",
+  "version": "1.0.0",
+  "description": "Threading security, scan network for new users.",
+  "main": "index.js",
+  "bin": {
+    "oats": "./cli.js"
+  },
+  "author": "rogerrabbit-cloud",
+  "license": "MIT"
+}
